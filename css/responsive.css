@@ -1,0 +1,248 @@
+@media (min-width:320px) and (max-width:575px){
+    .navbar-toggler-icon{
+        background-color: aliceblue;
+    }
+    .bannaer_div1 h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .bannaer_div1 h5 {
+        font-size: 15px;
+        width: auto;
+    }
+    .banner_btn {
+        padding: 16px 9px;
+        font-size: 14px;
+        line-height: 17px;
+       
+    }
+    .banner_btn2 {
+        font-size: 14px;
+    }
+    .banner_img{
+        width: 100%;
+        margin-top: 40px;
+    }
+    .work_title {
+        font-size: 29px;
+    }
+    .work_para {
+        font-size: 15px;
+        width: auto;
+    }
+    .work_btn {
+        font-size: 14px;
+    }
+    .work_sub1{
+        margin-top: 68px;
+    }
+    .work_sub1 h6 {
+        font-size: 23px;
+    }
+    .work_para2 { 
+        font-size: 14px;
+    }
+    ..pro_div1 h3 {
+        color: var(--Dark-blue, #282938);
+        font-family: Poppins;
+        font-size: 19px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 64px;
+    }
+    .pro_div1 h3 {
+        font-size: 19px;
+    }
+    .pro_btn1 {
+        font-size: 14px;
+    }
+    .pro_icon {
+       display: none;
+    }
+    .project_itm img{
+        width: 100%;
+    }
+    .overly_2 {
+        width: auto;
+    }
+    .pro_div2item img{
+        width: 100%;
+    }
+    .pro_img{
+        width: 100%;
+    }
+    .product_title {
+        font-size: 25px;
+        line-height: 31px;
+        width: auto;
+    }
+    .product_main {
+        width: auto;
+    }
+    .psub_divtitle {
+        font-size: 17px;
+    }
+    .product_para {
+        font-size: 14px;
+        width: auto;
+    }
+    .about_lefttitle {
+        font-size: 19px;
+    }
+    .about_leftminititle {
+        font-size: 13px;
+        width: auto !important;
+    }
+    .about_rightdiv1 {
+        font-size: 16px;
+        line-height: 22px;
+        width: auto;
+    }
+    .about_witer {
+        font-size: 9px;
+    }
+    .about_witer2 {
+        font-size: 9px;
+    }
+    .ques_lefttitle {
+        font-size: 28px;
+        line-height: 39px;
+        width: auto;
+    }
+    .ques_lefttitle2 {
+        font-size: 16px;
+    }
+    .ques_midtitle {
+        font-size: 13px;
+        line-height: 17px;
+        margin-left: 30px;
+        width: 100%;
+    }
+    .corss {
+        margin-left: 53px;
+    }
+    .ques_para {
+       
+        font-size: 7px;
+       
+        line-height: 23px;
+        width: auto;
+        margin-top: -9px;
+        margin-left: 44px;
+    }
+    .ques_para::after {
+        content: '';
+        width: 102%;
+        top: 119px;
+        left: 0;
+    }
+    .ques_after2::after {
+        content: '';
+        width: 100%;
+        height: 2px;
+        background: #ECECF1;
+        position: absolute;
+        top: 62px;
+        left: 0;
+    }
+    .inquiru_left img{
+        width: 100%;
+    }
+    .inq_righttitle {
+        font-size: 17px;
+    }
+    .inq_righttitle2 {
+        font-size: 15px;
+        line-height: 25px;
+        width: auto;
+    }
+    .inq_input {
+        padding: 13px 20px;
+        border: 1.5px solid#FFFFFF;
+        background: #1C1E53;
+        border-radius: 8px;
+        width: auto;
+        margin-bottom: 16px;
+        font-size: 14px;
+    }
+    .inquiry_btn {
+        line-height: 32px;
+        padding: 12px 52px;
+        
+    }
+    .inuiry_right {
+        background: #1C1E53;
+        padding-top: 80px;
+        padding-left: 15px;
+        height: 691px;
+    }
+    .inquiry_btn2 {
+        font-family: Poppins;
+        font-size: 13px;
+        line-height: 32px;
+    }
+    .blog_title {
+        color: var(--Dark-blue, #282938);
+        font-family: Poppins;
+        font-size: 29px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 64px;
+    }
+    .blog_img{
+        width: 100%;
+    }
+    .card_text1 {
+        font-size: 23px;
+    }
+    .card_text2 {
+        font-size: 12px
+    }
+    .talk_lefttitle {
+        font-size: 15px;
+        width: auto;
+    }
+    .flex8 {
+        width: auto;
+        margin-top: 86px;
+        padding-top: 18px;
+        padding-left: 7px;
+    }
+    .talk_subtitle {
+        font-size: 11px;
+    }
+    .talk_subtitle2 {
+        font-size: 11px;
+    }
+    .talk_righttitle {
+        font-size: 32px;
+    }
+    .talk_righttitle2 {
+        font-size: 14px;  
+        line-height: 26px;     
+        width: auto;
+    }
+    .fotter_text {
+        font-size: 5px;
+    }
+    .fotter_space {
+        margin-left: -150px;
+    }
+    .fotter_space2 {
+        margin-left: 8px;
+    }
+    .inquiry_overly {
+        width: auto;
+    }
+    .inq_title {
+        width: auto;
+    }
+    .inq_para {
+        width: auto;
+    }
+    .btn_div {
+        margin-left: 47px;
+        margin-top: 28px;
+    }
+
+}
